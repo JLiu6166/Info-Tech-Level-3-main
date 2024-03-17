@@ -1,0 +1,7 @@
+{
+    "npc1": [["Hello there!", "Have you seen my pet chicken?"], 
+             ["Tell him I want him home!"], 
+             ["Goodbye!"]
+            ],
+    "npc2": ["Welcome to our village!", "Feel free to explore."]
+}
